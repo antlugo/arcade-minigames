@@ -23,6 +23,8 @@ Bill of Materials:
 
 
 Download example video:
+
+
 [![example gameplay](https://github.com/antlugo/arcade-minigames/raw/main/examples/example_thumbnail.png)](https://github.com/antlugo/arcade-minigames/raw/main/examples/example_gameplay_arcade_minigames.mp4)
 
 ![example 1](https://github.com/antlugo/arcade-minigames/raw/main/examples/example1.png)
