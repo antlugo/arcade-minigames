@@ -4,9 +4,9 @@ By: Anthony Lugo
 
 A game that faces the player with increasingly harder minigames until they run out of lives.
 
-Made for Arduino UNO R3 (32KB PROGMEM 2KB RAM)
+Developed on Arduino UNO R3 (32KB PROGMEM 2KB RAM)
 
-Compile and upload with Arduino IDE [https://www.arduino.cc/en/software/](https://www.arduino.cc/en/software/)
+Compile and flash with Arduino IDE [https://www.arduino.cc/en/software/](https://www.arduino.cc/en/software/)
 
 Minimum Memory requirements: 
     32082 bytes PROGMEM, 1538 bytes RAM
