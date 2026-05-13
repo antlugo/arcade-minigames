@@ -12,7 +12,7 @@ Minimum Memory requirements:
     32082 bytes PROGMEM, 1538 bytes RAM
     EEPROM unused
 
-Bill of Materials:
+Hardware Peripherals Used:
     5 buttons
     5 led diodes
     1 128x64 OLED display (u8g2 library compatiable)
