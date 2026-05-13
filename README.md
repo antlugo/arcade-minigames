@@ -22,7 +22,7 @@ Bill of Materials:
     1 SNx4HC595 shift register (exclusively used in output mode)
 
 
-Download example video:
+Download example video:                                                                       
 
 
 [![example gameplay](https://github.com/antlugo/arcade-minigames/raw/main/examples/example_thumbnail.png)](https://github.com/antlugo/arcade-minigames/raw/main/examples/example_gameplay_arcade_minigames.mp4)
